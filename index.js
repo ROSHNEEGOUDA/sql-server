@@ -4,8 +4,8 @@ const app = express();
 const PORT = 3000;
 
 const dbConfig = {
-  user: 'LAPTOP-3EO4LDAD\Saurav Kumar Singh',
-  password: 'Spiderman@6307211373',
+  user: 'Saurav',
+  password: 'Spider@123',
   server: 'LAPTOP-3EO4LDAD', // e.g. localhost or 192.168.1.x
   database: 'MyAppDB',
   options: {
